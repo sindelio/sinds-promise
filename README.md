@@ -31,8 +31,8 @@ Require/import the module from your code:
 
 ## Objectives
 
-- Practice with async code and promises.
-- Learn how to create modules and publish them to the NPM registry.
+- [x] Practice with async code and promises.
+- [x] Learn how to create modules and publish them to the NPM registry.
 
 ## Contributions
 
@@ -40,4 +40,4 @@ All comments and contributions are much welcome!
 
 ## License
 
-()[]
+[Do What The F*ck You Want To](https://github.com/sindelio/sinds_promise/blob/master/LICENSE)
