@@ -4,14 +4,14 @@ A custom implementation of the standard Promise API in JavaScript.
 
 ## Features
 
-The module exports an object with 4 methods in it:
+The module exports an object with 4 functions in it:
 
 - sinds_promise.all()
 - sinds_promise.race()
 - sinds_promise.resolve()
 - sinds_promise.reject()
 
-These methods display the same behavior as the standard Promise API.
+These functions display the same behavior as the standard Promise API.
 
 ## Installation
 
