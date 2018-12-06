@@ -4,7 +4,7 @@ A custom implementation of the standard Promise API in JavaScript.
 
 ## Features
 
-the module exports an object with 4 methods in it:
+The module exports an object with 4 methods in it:
 
 - sinds_promise.all()
 - sinds_promise.race()
