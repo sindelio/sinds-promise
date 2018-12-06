@@ -1,6 +1,7 @@
 # sinds_promise
 
 A custom implementation of the standard Promise API in JavaScript.
+Current version: 1.1.0
 
 ## Features
 
