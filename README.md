@@ -36,7 +36,7 @@ Require/import the module from your code:
 
 ## Contributions
 
-All comments and contributions are much welcome!
+Any comments and contributions are much welcome!
 
 ## License
 
